@@ -32,20 +32,8 @@ public class BinarySearch {
 		}
 		
 		//Order the array numbers with the bubble method
-		/*
-		for(int i=0; i<ELEMENTS_ARRAY; i++) {
-			for(int j=0; j<ELEMENTS_ARRAY-1; j++) {
-				if(myarray[i]>myarray[i+1]) {
-					temp = myarray[j+1];
-					myarray[j+1] = myarray[j];
-					myarray[j] = temp;
-				}
-			}
-		}
-		for(int i=0; i<ELEMENTS_ARRAY; i++) {
-			System.out.print(myarray[i] +", ");
-		}
-		*/
+		
+		
 		
 		//Ask the user for a number to find
 		do {
